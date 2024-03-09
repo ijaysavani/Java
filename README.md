@@ -1,1 +1,1 @@
-Heap Data Structure - Task 1 for the Forage Walmart Global Tech assignment involves implementing a Heap Data Structure (Max Heap) while ensuring that the number of children per node is a power of 2 and performing validation accordingly. 
+1. Heap Data Structure - Task 1 for the Forage Walmart Global Tech assignment involves implementing a Heap Data Structure (Max Heap) while ensuring that the number of children per node is a power of 2 and performing validation accordingly. 
